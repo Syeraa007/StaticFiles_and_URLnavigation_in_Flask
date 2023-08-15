@@ -1,0 +1,10 @@
+h1{
+    background: radial-gradient(red,blue,aqua);
+}
+img{
+    width: 300px;
+    height: 250px;
+}
+a{
+    background-color: blue;
+}
